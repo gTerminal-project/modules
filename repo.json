@@ -4,7 +4,7 @@
         "github": {
             "name": "GitHub",
             "description": "GitHub related commands",
-            "script": "https://raw.githubusercontent.com/gTerminal-project/modules/main/module/github.js",
+            "script": "https://gterminal.is-a.dev/modules/module/github.js",
             "commands": {
                 "gh": {
                     "description": "Open a specific GitHub resource"
@@ -17,7 +17,7 @@
         "google": {
             "name": "Google",
             "description": "Google related commands",
-            "script": "https://raw.githubusercontent.com/gTerminal-project/modules/main/module/google.js",
+            "script": "https://gterminal.is-a.dev/modules/module/google.js",
             "commands": {
                 "google": {
                     "description": "Search on google"
@@ -32,7 +32,7 @@
         "openai": {
             "name": "OpenAI",
             "description": "OpenAI related commands",
-            "script": "https://raw.githubusercontent.com/gTerminal-project/modules/main/module/openai.js",
+            "script": "https://gterminal.is-a.dev/modules/module/openai.js",
             "commands": {
                 "chatgpt": {
                     "description": "Open a specific ChatGPT chat or ChatGPT"
@@ -42,7 +42,7 @@
         "shortlinks": {
             "name": "Shortlink Commands",
             "description": "Provides commands to generate shortlinks on is.gd and v.gd",
-            "script": "https://raw.githubusercontent.com/gTerminal-project/modules/main/module/shortlinks.js",
+            "script": "https://gterminal.is-a.dev/modules/module/shortlinks.js",
             "commands": {
                 "short": {
                     "description": "Shorten a link on is.gd"
@@ -55,7 +55,7 @@
         "twitch": {
             "name": "Twitch",
             "description": "Search People and Categories on Twitch",
-            "script": "https://raw.githubusercontent.com/gTerminal-project/modules/main/module/twitch.js",
+            "script": "https://gterminal.is-a.dev/modules/module/twitch.js",
             "commands": {
                 "tw": {
                     "description": "Open Twitch or search on it"
@@ -74,7 +74,7 @@
         "webdev": {
             "name": "WebDev Tools",
             "description": "Tools for web developers",
-            "script": "https://raw.githubusercontent.com/gTerminal-project/modules/main/module/webdev.js",
+            "script": "https://gterminal.is-a.dev/modules/module/webdev.js",
             "commands": {
                 "pen": {
                     "description": "Start a new codepen"
@@ -87,7 +87,7 @@
         "whatsapp": {
             "name": "WhatsApp",
             "description": "Open WhatsApp Web with a simple command",
-            "script": "https://raw.githubusercontent.com/gTerminal-project/modules/main/module/whatsapp.js",
+            "script": "https://gterminal.is-a.dev/modules/module/whatsapp.js",
             "commands": {
                 "whatsapp": {
                     "description": "Open WhatsApp Web"
@@ -102,7 +102,7 @@
         "you": {
             "name": "You.com",
             "description": "You.com related commands",
-            "script": "https://raw.githubusercontent.com/gTerminal-project/modules/main/module/you.js",
+            "script": "https://gterminal.is-a.dev/modules/module/you.js",
             "commands": {
                 "you": {
                     "description": "Search with youchat"
@@ -132,7 +132,7 @@
         "yt": {
             "name": "YouTube",
             "description": "YouTube related commands",
-            "script": "https://raw.githubusercontent.com/gTerminal-project/modules/main/module/youtube.js",
+            "script": "https://gterminal.is-a.dev/modules/module/youtube.js",
             "commands": {
                 "youtube": {
                     "description": "Search with youchat"
