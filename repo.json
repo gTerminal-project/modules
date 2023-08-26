@@ -81,6 +81,17 @@
                 },
                 "keycode": {
                     "description": "Open keycode.info"
+                },
+                "caniuse": {
+                    "description": "Start a 'Can I use' search"
+                },
+                "regex101": {
+                    "description": "Open regex101"
+                }
+            },
+            "aliases": {
+                "regx": {
+                    "command": "regex101"
                 }
             }
         },
