@@ -9,7 +9,7 @@ This is installed by default in the official intance.
 To install this repo in gTerminal, run the following command:  
 `modules repo add https://gterminal.is-a.dev/modules/repo.json`
 
-To install this repo in gTerminal, run the following command:  
+To remove this repo in gTerminal, run the following command:  
 `modules repo remove gTerminal`
 
 ## Credits
