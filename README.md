@@ -7,7 +7,7 @@ In this repo, we have a collection of default modules that are shipped with the 
 This is installed by default in the official intance.  
   
 To install this repo in gTerminal, run the following command:  
-`modules repo add <WILL BE ADDED LATER>`
+`modules repo add https://raw.githubusercontent.com/gTerminal-project/modules/main/repo.json`
 
 To install this repo in gTerminal, run the following command:  
 `modules repo remove gTerminal`
