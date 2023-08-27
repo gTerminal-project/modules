@@ -13,4 +13,4 @@ youtube.registerCommand("youtube", "Search with youchat", async (full, rest) => 
     gterminal.io.println("Please wait...");
 })
 
-youtube.registerALias("yt", "youtube")
+youtube.registerAlias("yt", "youtube")
