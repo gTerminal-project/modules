@@ -1,4 +1,4 @@
-const youtube = registerModule(
+const youtube = gterminal.modules.register(
     "youtube",
     "YouTube",
     "YouTube related commands"
@@ -6,11 +6,11 @@ const youtube = registerModule(
 
 youtube.registerCommand("youtube", "Search with youchat", async (full, rest) => {
     if (rest) {
-        window.modifyHref(`https://www.youtube.com/results?search_query=${encodeURIComponent(rest)}`);
+        gterminal.web.goto(`https://www.youtube.com/results?search_query=${encodeURIComponent(rest)}`);
     } else {
-        window.location.href = "https://www.youtube.com/"
+        gterminal.web.goto("https://www.youtube.com/");
     }
-    out("Please wait...");
+    gterminal.io.println("Please wait...");
 })
 
-youtube.registerCommand("yt", "Alias: youtube", alias("youtube"))
+youtube.registerALias("yt", "youtube")

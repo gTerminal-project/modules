@@ -1,12 +1,12 @@
-const whatsapp = registerModule(
+const whatsapp = gterminal.modules.register(
     "whatsapp",
     "WhatsApp",
     "Open WhatsApp Web with a simple command"
 )
 
 whatsapp.registerCommand("whatsapp", "Open WhatsApp Web", async (full, rest) => {
-    window.modifyHref("https://web.whatsapp.com/");
-    out("Please wait...");
+    gterminal.web.goto("https://web.whatsapp.com/");
+    gterminal.io.println("Please wait...");
 })
 
-whatsapp.registerCommand("wa", "Alias: whatsapp", alias("whatsapp"))
+whatsapp.registerAlias("wa", "whatsapp")

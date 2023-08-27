@@ -1,4 +1,4 @@
-const twitch = registerModule(
+const twitch = gterminal.modules.register(
     "twitch",
     "Twitch",
     "Search People and Categorys on Twitch"
@@ -6,19 +6,19 @@ const twitch = registerModule(
 
 twitch.registerCommand("tw", "Open Twitch or search on it", async (full, rest) => {
     if (rest) {
-        window.modifyHref(`https://www.twitch.tv/search?term=${encodeURIComponent(rest)}`);
+        gterminal.web.goto(`https://www.twitch.tv/search?term=${encodeURIComponent(rest)}`);
     } else {
-        window.modifyHref("https://www.twitch.tv/")
+        gterminal.web.goto("https://www.twitch.tv/")
     }
-    out("Please wait...");
+    gterminal.io.println("Please wait...");
 })
 
 twitch.registerCommand("twac", "Show a twitch profile", async (full, rest) => {
     if (rest) {
-        window.modifyHref(`https://www.twitch.tv/${encodeURIComponent(rest)}`);
-        out("Please wait...");
+        gterminal.web.goto(`https://www.twitch.tv/${encodeURIComponent(rest)}`);
+        gterminal.io.println("Please wait...");
     } else {
-        out("You need to specify a name.");
+        gterminal.io.println("You need to specify a name.");
     }
 })
 
@@ -31,16 +31,16 @@ const TWCAT_SHORT = {
 
 twitch.registerCommand("twcat", "Show a twitch category", async (full, rest) => {
     if (rest) {
-        window.modifyHref(`https://www.twitch.tv/directory/category/${TWCAT_SHORT[rest] || rest}`);
+        gterminal.web.goto(`https://www.twitch.tv/directory/category/${TWCAT_SHORT[rest] || rest}`);
     } else {
-        window.modifyHref("https://www.twitch.tv/directory/category/")
+        gterminal.web.goto("https://www.twitch.tv/directory/category/")
     }
-    out("Please wait...");
+    gterminal.io.println("Please wait...");
 })
 
 twitch.registerCommand("twcat-all", "List availible twitch categories", async (full, rest) => {
-    out("The following categories are availible:");
+    gterminal.io.println("The following categories are availible:");
     for (let category of Object.keys(TWCAT_SHORT)) {
-        out(`- ${category}`);
+        gterminal.io.println(`- ${category}`);
     }
 })

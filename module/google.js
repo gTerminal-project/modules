@@ -1,4 +1,4 @@
-const google = registerModule(
+const google = gterminal.modules.register(
     "google",
     "Google",
     "Google related commands"
@@ -6,11 +6,11 @@ const google = registerModule(
 
 google.registerCommand("google", "Search on google", async (full, rest) => {
     if (rest) {
-        window.modifyHref(`https://www.google.com/search?q=${encodeURIComponent(rest)}`);
+        gterminal.web.goto(`https://www.google.com/search?q=${encodeURIComponent(rest)}`);
     } else {
-        window.modifyHref("https://www.google.com/")
+        gterminal.web.goto("https://www.google.com/")
     }
-    out("Please wait...");
+    gterminal.io.println("Please wait...");
 })
 
-google.registerCommand("goog", "Alias: google", alias("google"))
+google.registerAlias("goog", "google")
