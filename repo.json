@@ -12,7 +12,13 @@
                 "gist": {
                     "description": "Open a specific gist or account"
                 }
-            }
+            },
+            "versions": [
+                {
+                    "from": "1.0",
+                    "to": "1.2"
+                }
+            ]
         },
         "google": {
             "name": "Google",
@@ -27,7 +33,13 @@
                 "goog": {
                     "command": "google"
                 }
-            }
+            },
+            "versions": [
+                {
+                    "from": "1.0",
+                    "to": "1.2"
+                }
+            ]
         },
         "openai": {
             "name": "OpenAI",
@@ -37,7 +49,13 @@
                 "chatgpt": {
                     "description": "Open a specific ChatGPT chat or ChatGPT"
                 }
-            }
+            },
+            "versions": [
+                {
+                    "from": "1.0",
+                    "to": "1.2"
+                }
+            ]
         },
         "shortlinks": {
             "name": "Shortlink Commands",
@@ -50,7 +68,13 @@
                 "shortv": {
                     "description": "Shorten a link on v.gd"
                 }
-            }
+            },
+            "versions": [
+                {
+                    "from": "1.0",
+                    "to": "1.2"
+                }
+            ]
         },
         "twitch": {
             "name": "Twitch",
@@ -69,7 +93,13 @@
                 "twcat-all": {
                     "description": "List availible twitch categories"
                 }
-            }
+            },
+            "versions": [
+                {
+                    "from": "1.0",
+                    "to": "1.2"
+                }
+            ]
         },
         "webdev": {
             "name": "WebDev Tools",
@@ -93,7 +123,13 @@
                 "regx": {
                     "command": "regex101"
                 }
-            }
+            },
+            "versions": [
+                {
+                    "from": "1.0",
+                    "to": "1.2"
+                }
+            ]
         },
         "whatsapp": {
             "name": "WhatsApp",
@@ -108,7 +144,13 @@
                 "wa": {
                     "command": "whatsapp"
                 }
-            }
+            },
+            "versions": [
+                {
+                    "from": "1.0",
+                    "to": "1.2"
+                }
+            ]
         },
         "you": {
             "name": "You.com",
@@ -138,6 +180,12 @@
                     "description": "Search with You.com's YouChat",
                     "command": "u %full%"
                 }
+            ],
+            "versions": [
+                {
+                    "from": "1.0",
+                    "to": "1.2"
+                }
             ]
         },
         "yt": {
@@ -153,7 +201,13 @@
                 "yt": {
                     "command": "youtube"
                 }
-            }
+            },
+            "versions": [
+                {
+                    "from": "1.0",
+                    "to": "1.2"
+                }
+            ]
         }
     }
 }
