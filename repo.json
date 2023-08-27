@@ -13,7 +13,7 @@
                     "description": "Open a specific gist or account"
                 }
             },
-            "api_version": "1.3"
+            "api_version": "1.3.*"
         },
         "google": {
             "name": "Google",
@@ -29,7 +29,7 @@
                     "command": "google"
                 }
             },
-            "api_version": "1.3"
+            "api_version": "1.3.*"
         },
         "openai": {
             "name": "OpenAI",
@@ -40,7 +40,7 @@
                     "description": "Open a specific ChatGPT chat or ChatGPT"
                 }
             },
-            "api_version": "1.3"
+            "api_version": "1.3.*"
         },
         "shortlinks": {
             "name": "Shortlink Commands",
@@ -54,7 +54,7 @@
                     "description": "Shorten a link on v.gd"
                 }
             },
-            "api_version": "1.3"
+            "api_version": "1.3.*"
         },
         "twitch": {
             "name": "Twitch",
@@ -74,7 +74,7 @@
                     "description": "List availible twitch categories"
                 }
             },
-            "api_version": "1.3"
+            "api_version": "1.3.*"
         },
         "webdev": {
             "name": "WebDev Tools",
@@ -99,7 +99,7 @@
                     "command": "regex101"
                 }
             },
-            "api_version": "1.3"
+            "api_version": "1.3.*"
         },
         "whatsapp": {
             "name": "WhatsApp",
@@ -115,7 +115,7 @@
                     "command": "whatsapp"
                 }
             },
-            "api_version": "1.3"
+            "api_version": "1.3.*"
         },
         "you": {
             "name": "You.com",
@@ -146,7 +146,7 @@
                     "command": "u %full%"
                 }
             ],
-            "api_version": "1.3"
+            "api_version": "1.3.*"
         },
         "yt": {
             "name": "YouTube",
@@ -162,7 +162,7 @@
                     "command": "youtube"
                 }
             },
-            "api_version": "1.3"
+            "api_version": "1.3.*"
         }
     }
 }
