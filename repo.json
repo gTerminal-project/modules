@@ -144,7 +144,7 @@
             ],
             "api_version": "1.3.*"
         },
-        "yt": {
+        "youtube": {
             "name": "YouTube",
             "description": "YouTube related commands",
             "script": "https://gterminal.is-a.dev/modules/module/youtube.js",
