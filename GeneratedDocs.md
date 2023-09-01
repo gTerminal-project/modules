@@ -14,7 +14,7 @@ Commands:
 
 - `github`  
   
-  [![Run command `github`](https://img.shields.io/badge/Run_command-github:github-blue)](https://gterminal.is-a.dev/?cmd=github)
+  [![Run command `github`](https://img.shields.io/badge/Run_command-github-blue)](https://gterminal.is-a.dev/?cmd=github)
 
   Open a specific GitHub resource  
   Aliases:  
@@ -23,7 +23,7 @@ Commands:
 
 - `gist`  
   
-  [![Run command `gist`](https://img.shields.io/badge/Run_command-gist:github-blue)](https://gterminal.is-a.dev/?cmd=gist)
+  [![Run command `gist`](https://img.shields.io/badge/Run_command-gist-blue)](https://gterminal.is-a.dev/?cmd=gist)
 
   Open a specific gist or account  
 
@@ -39,7 +39,7 @@ Commands:
 
 - `google`  
   
-  [![Run command `google`](https://img.shields.io/badge/Run_command-google:google-blue)](https://gterminal.is-a.dev/?cmd=google)
+  [![Run command `google`](https://img.shields.io/badge/Run_command-google-blue)](https://gterminal.is-a.dev/?cmd=google)
 
   Search on google  
   Aliases:  
@@ -58,7 +58,7 @@ Commands:
 
 - `chatgpt`  
   
-  [![Run command `chatgpt`](https://img.shields.io/badge/Run_command-chatgpt:openai-blue)](https://gterminal.is-a.dev/?cmd=chatgpt)
+  [![Run command `chatgpt`](https://img.shields.io/badge/Run_command-chatgpt-blue)](https://gterminal.is-a.dev/?cmd=chatgpt)
 
   Open a specific ChatGPT chat or ChatGPT  
 
@@ -74,13 +74,13 @@ Commands:
 
 - `short`  
   
-  [![Run command `short`](https://img.shields.io/badge/Run_command-short:shortlinks-blue)](https://gterminal.is-a.dev/?cmd=short)
+  [![Run command `short`](https://img.shields.io/badge/Run_command-short-blue)](https://gterminal.is-a.dev/?cmd=short)
 
   Shorten a link on is.gd  
 
 - `shortv`  
   
-  [![Run command `shortv`](https://img.shields.io/badge/Run_command-shortv:shortlinks-blue)](https://gterminal.is-a.dev/?cmd=shortv)
+  [![Run command `shortv`](https://img.shields.io/badge/Run_command-shortv-blue)](https://gterminal.is-a.dev/?cmd=shortv)
 
   Shorten a link on v.gd  
 
@@ -96,25 +96,25 @@ Commands:
 
 - `tw`  
   
-  [![Run command `tw`](https://img.shields.io/badge/Run_command-tw:twitch-blue)](https://gterminal.is-a.dev/?cmd=tw)
+  [![Run command `tw`](https://img.shields.io/badge/Run_command-tw-blue)](https://gterminal.is-a.dev/?cmd=tw)
 
   Open Twitch or search on it  
 
 - `twac`  
   
-  [![Run command `twac`](https://img.shields.io/badge/Run_command-twac:twitch-blue)](https://gterminal.is-a.dev/?cmd=twac)
+  [![Run command `twac`](https://img.shields.io/badge/Run_command-twac-blue)](https://gterminal.is-a.dev/?cmd=twac)
 
   Show a twitch profile  
 
 - `twcat`  
   
-  [![Run command `twcat`](https://img.shields.io/badge/Run_command-twcat:twitch-blue)](https://gterminal.is-a.dev/?cmd=twcat)
+  [![Run command `twcat`](https://img.shields.io/badge/Run_command-twcat-blue)](https://gterminal.is-a.dev/?cmd=twcat)
 
   Show a twitch category  
 
 - `twcat-all`  
   
-  [![Run command `twcat-all`](https://img.shields.io/badge/Run_command-twcat-all:twitch-blue)](https://gterminal.is-a.dev/?cmd=twcat-all)
+  [![Run command `twcat-all`](https://img.shields.io/badge/Run_command-twcat-all-blue)](https://gterminal.is-a.dev/?cmd=twcat-all)
 
   List availible twitch categories  
 
@@ -130,25 +130,25 @@ Commands:
 
 - `pen`  
   
-  [![Run command `pen`](https://img.shields.io/badge/Run_command-pen:webdev-blue)](https://gterminal.is-a.dev/?cmd=pen)
+  [![Run command `pen`](https://img.shields.io/badge/Run_command-pen-blue)](https://gterminal.is-a.dev/?cmd=pen)
 
   Start a new codepen  
 
 - `keycode`  
   
-  [![Run command `keycode`](https://img.shields.io/badge/Run_command-keycode:webdev-blue)](https://gterminal.is-a.dev/?cmd=keycode)
+  [![Run command `keycode`](https://img.shields.io/badge/Run_command-keycode-blue)](https://gterminal.is-a.dev/?cmd=keycode)
 
   Open keycode.info  
 
 - `caniuse`  
   
-  [![Run command `caniuse`](https://img.shields.io/badge/Run_command-caniuse:webdev-blue)](https://gterminal.is-a.dev/?cmd=caniuse)
+  [![Run command `caniuse`](https://img.shields.io/badge/Run_command-caniuse-blue)](https://gterminal.is-a.dev/?cmd=caniuse)
 
   Start a 'Can I use' search  
 
 - `regex101`  
   
-  [![Run command `regex101`](https://img.shields.io/badge/Run_command-regex101:webdev-blue)](https://gterminal.is-a.dev/?cmd=regex101)
+  [![Run command `regex101`](https://img.shields.io/badge/Run_command-regex101-blue)](https://gterminal.is-a.dev/?cmd=regex101)
 
   Open regex101  
   Aliases:  
@@ -167,7 +167,7 @@ Commands:
 
 - `whatsapp`  
   
-  [![Run command `whatsapp`](https://img.shields.io/badge/Run_command-whatsapp:whatsapp-blue)](https://gterminal.is-a.dev/?cmd=whatsapp)
+  [![Run command `whatsapp`](https://img.shields.io/badge/Run_command-whatsapp-blue)](https://gterminal.is-a.dev/?cmd=whatsapp)
 
   Open WhatsApp Web  
   Aliases:  
@@ -186,7 +186,7 @@ Commands:
 
 - `you`  
   
-  [![Run command `you`](https://img.shields.io/badge/Run_command-you:you-blue)](https://gterminal.is-a.dev/?cmd=you)
+  [![Run command `you`](https://img.shields.io/badge/Run_command-you-blue)](https://gterminal.is-a.dev/?cmd=you)
 
   Search with youchat  
   Aliases:  
@@ -195,7 +195,7 @@ Commands:
 
 - `you-search`  
   
-  [![Run command `you-search`](https://img.shields.io/badge/Run_command-you-search:you-blue)](https://gterminal.is-a.dev/?cmd=you-search)
+  [![Run command `you-search`](https://img.shields.io/badge/Run_command-you-search-blue)](https://gterminal.is-a.dev/?cmd=you-search)
 
   Search on You.com  
   Aliases:  
@@ -204,7 +204,7 @@ Commands:
 
 - `chat`  
   
-  [![Run command `chat`](https://img.shields.io/badge/Run_command-chat:you-blue)](https://gterminal.is-a.dev/?cmd=chat)
+  [![Run command `chat`](https://img.shields.io/badge/Run_command-chat-blue)](https://gterminal.is-a.dev/?cmd=chat)
 
   Open a specific you-chat session or you-chat  
 
@@ -220,7 +220,7 @@ Commands:
 
 - `youtube`  
   
-  [![Run command `youtube`](https://img.shields.io/badge/Run_command-youtube:youtube-blue)](https://gterminal.is-a.dev/?cmd=youtube)
+  [![Run command `youtube`](https://img.shields.io/badge/Run_command-youtube-blue)](https://gterminal.is-a.dev/?cmd=youtube)
 
   Search with youchat  
   Aliases:  
