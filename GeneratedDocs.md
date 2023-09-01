@@ -4,46 +4,42 @@
 
 ## [`github`] GitHub
 
+[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:github)
+
 GitHub related commands
 
 Script: [`https://gterminal.is-a.dev/modules/module/github.js`](https://gterminal.is-a.dev/modules/module/github.js)
 
-GitHub related commands
-
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:github)
-
 Commands:  
 
 - `github`  
-  Open a specific GitHub resource  
 [Run this command](https://gterminal.is-a.dev/?cmd=github)
 
+  Open a specific GitHub resource  
 
   Aliases:  
 
   - `gh`  
 
 - `gist`  
-  Open a specific gist or account  
 [Run this command](https://gterminal.is-a.dev/?cmd=gist)
 
+  Open a specific gist or account  
 
 ## [`google`] Google
+
+[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:google)
 
 Google related commands
 
 Script: [`https://gterminal.is-a.dev/modules/module/google.js`](https://gterminal.is-a.dev/modules/module/google.js)
 
-Google related commands
-
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:google)
-
 Commands:  
 
 - `google`  
-  Search on google  
 [Run this command](https://gterminal.is-a.dev/?cmd=google)
 
+  Search on google  
 
   Aliases:  
 
@@ -51,106 +47,98 @@ Commands:
 
 ## [`openai`] OpenAI
 
+[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:openai)
+
 OpenAI related commands
 
 Script: [`https://gterminal.is-a.dev/modules/module/openai.js`](https://gterminal.is-a.dev/modules/module/openai.js)
 
-OpenAI related commands
-
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:openai)
-
 Commands:  
 
 - `chatgpt`  
-  Open a specific ChatGPT chat or ChatGPT  
 [Run this command](https://gterminal.is-a.dev/?cmd=chatgpt)
 
+  Open a specific ChatGPT chat or ChatGPT  
 
 ## [`shortlinks`] Shortlink Commands
+
+[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:shortlinks)
 
 Provides commands to generate shortlinks on is.gd and v.gd
 
 Script: [`https://gterminal.is-a.dev/modules/module/shortlinks.js`](https://gterminal.is-a.dev/modules/module/shortlinks.js)
 
-Provides commands to generate shortlinks on is.gd and v.gd
-
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:shortlinks)
-
 Commands:  
 
 - `short`  
-  Shorten a link on is.gd  
 [Run this command](https://gterminal.is-a.dev/?cmd=short)
 
+  Shorten a link on is.gd  
 
 - `shortv`  
-  Shorten a link on v.gd  
 [Run this command](https://gterminal.is-a.dev/?cmd=shortv)
 
+  Shorten a link on v.gd  
 
 ## [`twitch`] Twitch
+
+[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:twitch)
 
 Search People and Categories on Twitch
 
 Script: [`https://gterminal.is-a.dev/modules/module/twitch.js`](https://gterminal.is-a.dev/modules/module/twitch.js)
 
-Search People and Categories on Twitch
-
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:twitch)
-
 Commands:  
 
 - `tw`  
-  Open Twitch or search on it  
 [Run this command](https://gterminal.is-a.dev/?cmd=tw)
 
+  Open Twitch or search on it  
 
 - `twac`  
-  Show a twitch profile  
 [Run this command](https://gterminal.is-a.dev/?cmd=twac)
 
+  Show a twitch profile  
 
 - `twcat`  
-  Show a twitch category  
 [Run this command](https://gterminal.is-a.dev/?cmd=twcat)
 
+  Show a twitch category  
 
 - `twcat-all`  
-  List availible twitch categories  
 [Run this command](https://gterminal.is-a.dev/?cmd=twcat-all)
 
+  List availible twitch categories  
 
 ## [`webdev`] WebDev Tools
+
+[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:webdev)
 
 Tools for web developers
 
 Script: [`https://gterminal.is-a.dev/modules/module/webdev.js`](https://gterminal.is-a.dev/modules/module/webdev.js)
 
-Tools for web developers
-
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:webdev)
-
 Commands:  
 
 - `pen`  
-  Start a new codepen  
 [Run this command](https://gterminal.is-a.dev/?cmd=pen)
 
+  Start a new codepen  
 
 - `keycode`  
-  Open keycode.info  
 [Run this command](https://gterminal.is-a.dev/?cmd=keycode)
 
+  Open keycode.info  
 
 - `caniuse`  
-  Start a 'Can I use' search  
 [Run this command](https://gterminal.is-a.dev/?cmd=caniuse)
 
+  Start a 'Can I use' search  
 
 - `regex101`  
-  Open regex101  
 [Run this command](https://gterminal.is-a.dev/?cmd=regex101)
 
+  Open regex101  
 
   Aliases:  
 
@@ -158,20 +146,18 @@ Commands:
 
 ## [`whatsapp`] WhatsApp
 
+[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:whatsapp)
+
 Open WhatsApp Web with a simple command
 
 Script: [`https://gterminal.is-a.dev/modules/module/whatsapp.js`](https://gterminal.is-a.dev/modules/module/whatsapp.js)
 
-Open WhatsApp Web with a simple command
-
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:whatsapp)
-
 Commands:  
 
 - `whatsapp`  
-  Open WhatsApp Web  
 [Run this command](https://gterminal.is-a.dev/?cmd=whatsapp)
 
+  Open WhatsApp Web  
 
   Aliases:  
 
@@ -179,55 +165,51 @@ Commands:
 
 ## [`you`] You.com
 
+[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:you)
+
 You.com related commands
 
 Script: [`https://gterminal.is-a.dev/modules/module/you.js`](https://gterminal.is-a.dev/modules/module/you.js)
 
-You.com related commands
-
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:you)
-
 Commands:  
 
 - `you`  
-  Search with youchat  
 [Run this command](https://gterminal.is-a.dev/?cmd=you)
 
+  Search with youchat  
 
   Aliases:  
 
   - `u`  
 
 - `you-search`  
-  Search on You.com  
 [Run this command](https://gterminal.is-a.dev/?cmd=you-search)
 
+  Search on You.com  
 
   Aliases:  
 
   - `us`  
 
 - `chat`  
-  Open a specific you-chat session or you-chat  
 [Run this command](https://gterminal.is-a.dev/?cmd=chat)
 
+  Open a specific you-chat session or you-chat  
 
 ## [`youtube`] YouTube
+
+[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:youtube)
 
 YouTube related commands
 
 Script: [`https://gterminal.is-a.dev/modules/module/youtube.js`](https://gterminal.is-a.dev/modules/module/youtube.js)
 
-YouTube related commands
-
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:youtube)
-
 Commands:  
 
 - `youtube`  
-  Search with youchat  
 [Run this command](https://gterminal.is-a.dev/?cmd=youtube)
 
+  Search with youchat  
 
   Aliases:  
 
