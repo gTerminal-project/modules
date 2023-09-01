@@ -1,10 +1,10 @@
 # [`main`] gTerminal
 
-[Add this repo](https://gterminal.is-a.dev/?cmd=modules+add-repo+https%3A//gterminal.is-a.dev/modules/repo.json)
+[![Add repo `main`](https://img.shields.io/badge/Add_repo-main-blue)](https://gterminal.is-a.dev/?cmd=modules+add-repo+https%3A//gterminal.is-a.dev/modules/repo.json)
 
 ## [`github`] GitHub
 
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:github)
+[![Install module `main:github`](https://img.shields.io/badge/Install_module-main:github-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:github)
 
 GitHub related commands
 
@@ -13,7 +13,7 @@ Script: [`https://gterminal.is-a.dev/modules/module/github.js`](https://gtermina
 Commands:  
 
 - `github`  
-[Run this command](https://gterminal.is-a.dev/?cmd=github)
+[![Run command `github`](https://img.shields.io/badge/Run_command-github:github-green)](https://gterminal.is-a.dev/?cmd=github)
 
   Open a specific GitHub resource  
 
@@ -22,13 +22,13 @@ Commands:
   - `gh`  
 
 - `gist`  
-[Run this command](https://gterminal.is-a.dev/?cmd=gist)
+[![Run command `gist`](https://img.shields.io/badge/Run_command-gist:github-green)](https://gterminal.is-a.dev/?cmd=gist)
 
   Open a specific gist or account  
 
 ## [`google`] Google
 
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:google)
+[![Install module `main:google`](https://img.shields.io/badge/Install_module-main:google-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:google)
 
 Google related commands
 
@@ -37,7 +37,7 @@ Script: [`https://gterminal.is-a.dev/modules/module/google.js`](https://gtermina
 Commands:  
 
 - `google`  
-[Run this command](https://gterminal.is-a.dev/?cmd=google)
+[![Run command `google`](https://img.shields.io/badge/Run_command-google:google-green)](https://gterminal.is-a.dev/?cmd=google)
 
   Search on google  
 
@@ -47,7 +47,7 @@ Commands:
 
 ## [`openai`] OpenAI
 
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:openai)
+[![Install module `main:openai`](https://img.shields.io/badge/Install_module-main:openai-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:openai)
 
 OpenAI related commands
 
@@ -56,13 +56,13 @@ Script: [`https://gterminal.is-a.dev/modules/module/openai.js`](https://gtermina
 Commands:  
 
 - `chatgpt`  
-[Run this command](https://gterminal.is-a.dev/?cmd=chatgpt)
+[![Run command `chatgpt`](https://img.shields.io/badge/Run_command-chatgpt:openai-green)](https://gterminal.is-a.dev/?cmd=chatgpt)
 
   Open a specific ChatGPT chat or ChatGPT  
 
 ## [`shortlinks`] Shortlink Commands
 
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:shortlinks)
+[![Install module `main:shortlinks`](https://img.shields.io/badge/Install_module-main:shortlinks-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:shortlinks)
 
 Provides commands to generate shortlinks on is.gd and v.gd
 
@@ -71,18 +71,18 @@ Script: [`https://gterminal.is-a.dev/modules/module/shortlinks.js`](https://gter
 Commands:  
 
 - `short`  
-[Run this command](https://gterminal.is-a.dev/?cmd=short)
+[![Run command `short`](https://img.shields.io/badge/Run_command-short:shortlinks-green)](https://gterminal.is-a.dev/?cmd=short)
 
   Shorten a link on is.gd  
 
 - `shortv`  
-[Run this command](https://gterminal.is-a.dev/?cmd=shortv)
+[![Run command `shortv`](https://img.shields.io/badge/Run_command-shortv:shortlinks-green)](https://gterminal.is-a.dev/?cmd=shortv)
 
   Shorten a link on v.gd  
 
 ## [`twitch`] Twitch
 
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:twitch)
+[![Install module `main:twitch`](https://img.shields.io/badge/Install_module-main:twitch-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:twitch)
 
 Search People and Categories on Twitch
 
@@ -91,28 +91,28 @@ Script: [`https://gterminal.is-a.dev/modules/module/twitch.js`](https://gtermina
 Commands:  
 
 - `tw`  
-[Run this command](https://gterminal.is-a.dev/?cmd=tw)
+[![Run command `tw`](https://img.shields.io/badge/Run_command-tw:twitch-green)](https://gterminal.is-a.dev/?cmd=tw)
 
   Open Twitch or search on it  
 
 - `twac`  
-[Run this command](https://gterminal.is-a.dev/?cmd=twac)
+[![Run command `twac`](https://img.shields.io/badge/Run_command-twac:twitch-green)](https://gterminal.is-a.dev/?cmd=twac)
 
   Show a twitch profile  
 
 - `twcat`  
-[Run this command](https://gterminal.is-a.dev/?cmd=twcat)
+[![Run command `twcat`](https://img.shields.io/badge/Run_command-twcat:twitch-green)](https://gterminal.is-a.dev/?cmd=twcat)
 
   Show a twitch category  
 
 - `twcat-all`  
-[Run this command](https://gterminal.is-a.dev/?cmd=twcat-all)
+[![Run command `twcat-all`](https://img.shields.io/badge/Run_command-twcat-all:twitch-green)](https://gterminal.is-a.dev/?cmd=twcat-all)
 
   List availible twitch categories  
 
 ## [`webdev`] WebDev Tools
 
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:webdev)
+[![Install module `main:webdev`](https://img.shields.io/badge/Install_module-main:webdev-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:webdev)
 
 Tools for web developers
 
@@ -121,22 +121,22 @@ Script: [`https://gterminal.is-a.dev/modules/module/webdev.js`](https://gtermina
 Commands:  
 
 - `pen`  
-[Run this command](https://gterminal.is-a.dev/?cmd=pen)
+[![Run command `pen`](https://img.shields.io/badge/Run_command-pen:webdev-green)](https://gterminal.is-a.dev/?cmd=pen)
 
   Start a new codepen  
 
 - `keycode`  
-[Run this command](https://gterminal.is-a.dev/?cmd=keycode)
+[![Run command `keycode`](https://img.shields.io/badge/Run_command-keycode:webdev-green)](https://gterminal.is-a.dev/?cmd=keycode)
 
   Open keycode.info  
 
 - `caniuse`  
-[Run this command](https://gterminal.is-a.dev/?cmd=caniuse)
+[![Run command `caniuse`](https://img.shields.io/badge/Run_command-caniuse:webdev-green)](https://gterminal.is-a.dev/?cmd=caniuse)
 
   Start a 'Can I use' search  
 
 - `regex101`  
-[Run this command](https://gterminal.is-a.dev/?cmd=regex101)
+[![Run command `regex101`](https://img.shields.io/badge/Run_command-regex101:webdev-green)](https://gterminal.is-a.dev/?cmd=regex101)
 
   Open regex101  
 
@@ -146,7 +146,7 @@ Commands:
 
 ## [`whatsapp`] WhatsApp
 
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:whatsapp)
+[![Install module `main:whatsapp`](https://img.shields.io/badge/Install_module-main:whatsapp-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:whatsapp)
 
 Open WhatsApp Web with a simple command
 
@@ -155,7 +155,7 @@ Script: [`https://gterminal.is-a.dev/modules/module/whatsapp.js`](https://gtermi
 Commands:  
 
 - `whatsapp`  
-[Run this command](https://gterminal.is-a.dev/?cmd=whatsapp)
+[![Run command `whatsapp`](https://img.shields.io/badge/Run_command-whatsapp:whatsapp-green)](https://gterminal.is-a.dev/?cmd=whatsapp)
 
   Open WhatsApp Web  
 
@@ -165,7 +165,7 @@ Commands:
 
 ## [`you`] You.com
 
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:you)
+[![Install module `main:you`](https://img.shields.io/badge/Install_module-main:you-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:you)
 
 You.com related commands
 
@@ -174,7 +174,7 @@ Script: [`https://gterminal.is-a.dev/modules/module/you.js`](https://gterminal.i
 Commands:  
 
 - `you`  
-[Run this command](https://gterminal.is-a.dev/?cmd=you)
+[![Run command `you`](https://img.shields.io/badge/Run_command-you:you-green)](https://gterminal.is-a.dev/?cmd=you)
 
   Search with youchat  
 
@@ -183,7 +183,7 @@ Commands:
   - `u`  
 
 - `you-search`  
-[Run this command](https://gterminal.is-a.dev/?cmd=you-search)
+[![Run command `you-search`](https://img.shields.io/badge/Run_command-you-search:you-green)](https://gterminal.is-a.dev/?cmd=you-search)
 
   Search on You.com  
 
@@ -192,13 +192,13 @@ Commands:
   - `us`  
 
 - `chat`  
-[Run this command](https://gterminal.is-a.dev/?cmd=chat)
+[![Run command `chat`](https://img.shields.io/badge/Run_command-chat:you-green)](https://gterminal.is-a.dev/?cmd=chat)
 
   Open a specific you-chat session or you-chat  
 
 ## [`youtube`] YouTube
 
-[Install this module](https://gterminal.is-a.dev/?cmd=modules+install+main:youtube)
+[![Install module `main:youtube`](https://img.shields.io/badge/Install_module-main:youtube-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:youtube)
 
 YouTube related commands
 
@@ -207,7 +207,7 @@ Script: [`https://gterminal.is-a.dev/modules/module/youtube.js`](https://gtermin
 Commands:  
 
 - `youtube`  
-[Run this command](https://gterminal.is-a.dev/?cmd=youtube)
+[![Run command `youtube`](https://img.shields.io/badge/Run_command-youtube:youtube-green)](https://gterminal.is-a.dev/?cmd=youtube)
 
   Search with youchat  
 
