@@ -1,10 +1,8 @@
 const twitch = gterminal.modules.register(
-    "twitch",
-    "Twitch",
-    "Search People and Categorys on Twitch"
+    "main:twitch"
 )
 
-twitch.registerCommand("tw", "Open Twitch or search on it", async (full, rest) => {
+twitch.registerCommand("tw", async (full, rest) => {
     if (rest) {
         gterminal.web.goto(`https://www.twitch.tv/search?term=${encodeURIComponent(rest)}`);
     } else {
@@ -13,7 +11,7 @@ twitch.registerCommand("tw", "Open Twitch or search on it", async (full, rest) =
     gterminal.io.println("Please wait...");
 })
 
-twitch.registerCommand("twac", "Show a twitch profile", async (full, rest) => {
+twitch.registerCommand("twac", async (full, rest) => {
     if (rest) {
         gterminal.web.goto(`https://www.twitch.tv/${encodeURIComponent(rest)}`);
         gterminal.io.println("Please wait...");
@@ -29,7 +27,7 @@ const TWCAT_SHORT = {
     "jsdev": "software-and-game-development?tl=JavaScript"
 }
 
-twitch.registerCommand("twcat", "Show a twitch category", async (full, rest) => {
+twitch.registerCommand("twcat", async (full, rest) => {
     if (rest) {
         gterminal.web.goto(`https://www.twitch.tv/directory/category/${TWCAT_SHORT[rest] || rest}`);
     } else {
@@ -38,7 +36,7 @@ twitch.registerCommand("twcat", "Show a twitch category", async (full, rest) => 
     gterminal.io.println("Please wait...");
 })
 
-twitch.registerCommand("twcat-all", "List availible twitch categories", async (full, rest) => {
+twitch.registerCommand("twcat-all", async (full, rest) => {
     gterminal.io.println("The following categories are availible:");
     for (let category of Object.keys(TWCAT_SHORT)) {
         gterminal.io.println(`- ${category}`);

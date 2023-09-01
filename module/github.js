@@ -1,10 +1,8 @@
 const github = gterminal.modules.register(
-    "github",
-    "GitHub",
-    "GitHub related commands"
+    "main:github"
 )
 
-github.registerCommand("gh", "Open a specific GitHub resource", async (full, rest)=>{
+github.registerCommand("gh", async (full, rest) => {
     if (rest) {
         const srest = rest.split("/");
         if (srest[1]) {
@@ -18,7 +16,7 @@ github.registerCommand("gh", "Open a specific GitHub resource", async (full, res
     gterminal.io.println("Please wait...");
 })
 
-github.registerCommand("gist", "Open a specific gist or account", async (full, rest)=>{
+github.registerCommand("gist", async (full, rest) => {
     if (rest) {
         const srest = rest.split("/");
         if (srest[1]) {

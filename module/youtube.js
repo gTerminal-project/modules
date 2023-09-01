@@ -1,10 +1,8 @@
 const youtube = gterminal.modules.register(
-    "youtube",
-    "YouTube",
-    "YouTube related commands"
+    "main:youtube"
 )
 
-youtube.registerCommand("youtube", "Search with youchat", async (full, rest) => {
+youtube.registerCommand("youtube", async (full, rest) => {
     if (rest) {
         gterminal.web.goto(`https://www.youtube.com/results?search_query=${encodeURIComponent(rest)}`);
     } else {

@@ -1,10 +1,8 @@
 const you = gterminal.modules.register(
-    "you",
-    "You.com",
-    "You.com related commands"
+    "main:you"
 )
 
-you.registerCommand("you", "Search with youchat", async (full, rest) => {
+you.registerCommand("you", async (full, rest) => {
     if (rest) {
         gterminal.web.goto(`https://you.com/search?q=${encodeURIComponent(rest)}&tbm=youchat&fromExtension=true`);
     } else {
@@ -15,7 +13,7 @@ you.registerCommand("you", "Search with youchat", async (full, rest) => {
 
 you.registerAlias("u", "you")
 
-you.registerCommand("you-search", "Search on you", async (full, rest) => {
+you.registerCommand("you-search", async (full, rest) => {
     if (rest) {
         gterminal.web.goto(`https://you.com/search?q=${encodeURIComponent(rest)}&fromExtension=true`);
     } else {
@@ -26,7 +24,7 @@ you.registerCommand("you-search", "Search on you", async (full, rest) => {
 
 you.registerAlias("us", "you-search")
 
-you.registerCommand("chat", "Open a specific you-chat session or you-chat", async (full, rest) => {
+you.registerCommand("chat", async (full, rest) => {
     if (rest) {
         gterminal.web.goto(`https://you.com/search?q=Loading...&cid=${rest}&tbm=youchat`);
     } else {

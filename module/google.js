@@ -1,10 +1,8 @@
 const google = gterminal.modules.register(
-    "google",
-    "Google",
-    "Google related commands"
+    "main:google"
 )
 
-google.registerCommand("google", "Search on google", async (full, rest) => {
+google.registerCommand("google", async (full, rest) => {
     if (rest) {
         gterminal.web.goto(`https://www.google.com/search?q=${encodeURIComponent(rest)}`);
     } else {

@@ -1,20 +1,18 @@
 const webdev = gterminal.modules.register(
-    "webdev",
-    "WebDev Tools",
-    "Tools for web developers"
+    "main:webdev"
 )
 
-webdev.registerCommand("pen", "Start a new codepen", async (full, rest) => {
+webdev.registerCommand("pen", async (full, rest) => {
     gterminal.web.goto(`https://pen.new/`);
     gterminal.io.println("Please wait...");
 })
 
-webdev.registerCommand("keycode", "Open keycode explorer", async (full, rest) => {
+webdev.registerCommand("keycode", async (full, rest) => {
     gterminal.web.goto(`https://keycode.info/`);
     gterminal.io.println("Please wait...");
 })
 
-webdev.registerCommand("caniuse", "Start a 'Can I use' search", async (full, rest) => {
+webdev.registerCommand("caniuse", async (full, rest) => {
     if (rest) {
         gterminal.web.goto(`https://caniuse.com/?search=${encodeURIComponent(rest)}`);
     } else {
@@ -23,7 +21,7 @@ webdev.registerCommand("caniuse", "Start a 'Can I use' search", async (full, res
     gterminal.io.println("Please wait...");
 })
 
-webdev.registerCommand("regex101", "Open regex101", async (full, rest) => {
+webdev.registerCommand("regex101", async (full, rest) => {
     gterminal.web.goto(`https://regex101.com/`);
     gterminal.io.println("Please wait...");
 })

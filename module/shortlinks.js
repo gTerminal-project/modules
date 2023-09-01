@@ -1,10 +1,8 @@
 const shortlinks = gterminal.modules.register(
-    "shortlinks",
-    "Shortlink Commands",
-    "Provides commands to generate shortlinks on is.gd and v.gd"
+    "main:shortlinks"
 )
 
-shortlinks.registerCommand("short", "Shorten a link on is.gd", async (full, rest) => {
+shortlinks.registerCommand("short", async (full, rest) => {
     if (rest) {
         const json = await (await fetch(`https://is.gd/create.php?format=json&url=${encodeURIComponent(rest)}`)).json();
         if (json.errormessage) {
@@ -17,7 +15,7 @@ shortlinks.registerCommand("short", "Shorten a link on is.gd", async (full, rest
     }
 })
 
-shortlinks.registerCommand("shortv", "Shorten a link on v.gd", async (full, rest) => {
+shortlinks.registerCommand("shortv", async (full, rest) => {
     if (rest) {
         const json = await (await fetch(`https://v.gd/create.php?format=json&url=${encodeURIComponent(rest)}`)).json();
         if (json.errormessage) {

@@ -1,10 +1,8 @@
 const openai = gterminal.modules.register(
-    "openai",
-    "OpenAI",
-    "OpenAI related commands"
+    "main:openai"
 )
 
-openai.registerCommand("chatgpt", "Open a specific ChatGPT chat or ChatGPT", async (full, rest) => {
+openai.registerCommand("chatgpt", async (full, rest) => {
     if (rest) {
         const srest = rest.split("/");
         if (srest[1]) {
