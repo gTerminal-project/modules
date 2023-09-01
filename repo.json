@@ -16,8 +16,7 @@
                 "gist": {
                     "description": "Open a specific gist or account"
                 }
-            },
-            "api_version": "1.3.*"
+            }
         },
         "google": {
             "name": "Google",
@@ -30,8 +29,7 @@
                         "goog"
                     ]
                 }
-            },
-            "api_version": "1.3.*"
+            }
         },
         "openai": {
             "name": "OpenAI",
@@ -41,8 +39,7 @@
                 "chatgpt": {
                     "description": "Open a specific ChatGPT chat or ChatGPT"
                 }
-            },
-            "api_version": "1.3.*"
+            }
         },
         "shortlinks": {
             "name": "Shortlink Commands",
@@ -55,8 +52,7 @@
                 "shortv": {
                     "description": "Shorten a link on v.gd"
                 }
-            },
-            "api_version": "1.3.*"
+            }
         },
         "twitch": {
             "name": "Twitch",
@@ -75,8 +71,7 @@
                 "twcat-all": {
                     "description": "List availible twitch categories"
                 }
-            },
-            "api_version": "1.3.*"
+            }
         },
         "webdev": {
             "name": "WebDev Tools",
@@ -98,8 +93,7 @@
                         "regx"
                     ]
                 }
-            },
-            "api_version": "1.3.*"
+            }
         },
         "whatsapp": {
             "name": "WhatsApp",
@@ -112,8 +106,7 @@
                         "wa"
                     ]
                 }
-            },
-            "api_version": "1.3.*"
+            }
         },
         "you": {
             "name": "You.com",
@@ -141,8 +134,7 @@
                     "description": "Search with You.com's YouChat",
                     "command": "u %full%"
                 }
-            ],
-            "api_version": "1.3.*"
+            ]
         },
         "youtube": {
             "name": "YouTube",
@@ -155,8 +147,7 @@
                         "yt"
                     ]
                 }
-            },
-            "api_version": "1.3.*"
+            }
         }
     }
 }
