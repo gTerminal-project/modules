@@ -15,7 +15,7 @@ with open("GeneratedDocs.md", "w", encoding="UTF-8") as f:
         f.write("Commands:  \n\n")
         for cmd, command in module["commands"].items():
             f.write(f"- `{cmd}`  \n")
-            f.write(f"  \n  [![Run command `{cmd}`](https://img.shields.io/badge/Run_command-{cmd}:{id}-blue)](https://gterminal.is-a.dev/?cmd={quote(cmd)})\n\n")
+            f.write(f"  \n  [![Run command `{cmd}`](https://img.shields.io/badge/Run_command-{cmd}-blue)](https://gterminal.is-a.dev/?cmd={quote(cmd)})\n\n")
             f.write(f"  {command['description']}  \n")
             if "aliases" in command:
                 f.write("  Aliases:  \n\n")
