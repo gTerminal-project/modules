@@ -10,5 +10,3 @@ youtube.registerCommand("youtube", async (full, rest) => {
     }
     gterminal.io.println("Please wait...");
 })
-
-youtube.registerAlias("yt", "youtube")

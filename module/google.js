@@ -10,5 +10,3 @@ google.registerCommand("google", async (full, rest) => {
     }
     gterminal.io.println("Please wait...");
 })
-
-google.registerAlias("goog", "google")

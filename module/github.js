@@ -2,7 +2,7 @@ const github = gterminal.modules.register(
     "main:github"
 )
 
-github.registerCommand("gh", async (full, rest) => {
+github.registerCommand("github", async (full, rest) => {
     if (rest) {
         const srest = rest.split("/");
         if (srest[1]) {

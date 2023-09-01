@@ -25,5 +25,3 @@ webdev.registerCommand("regex101", async (full, rest) => {
     gterminal.web.goto(`https://regex101.com/`);
     gterminal.io.println("Please wait...");
 })
-
-webdev.registerAlias("regx", "regex101")

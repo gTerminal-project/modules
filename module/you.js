@@ -11,8 +11,6 @@ you.registerCommand("you", async (full, rest) => {
     gterminal.io.println("Please wait...");
 })
 
-you.registerAlias("u", "you")
-
 you.registerCommand("you-search", async (full, rest) => {
     if (rest) {
         gterminal.web.goto(`https://you.com/search?q=${encodeURIComponent(rest)}&fromExtension=true`);
@@ -21,8 +19,6 @@ you.registerCommand("you-search", async (full, rest) => {
     }
     gterminal.io.println("Please wait...");
 })
-
-you.registerAlias("us", "you-search")
 
 you.registerCommand("chat", async (full, rest) => {
     if (rest) {
