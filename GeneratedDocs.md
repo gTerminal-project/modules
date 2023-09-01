@@ -1,10 +1,12 @@
 # [`main`] gTerminal
 
 [![Add repo `main`](https://img.shields.io/badge/Add_repo-main-blue)](https://gterminal.is-a.dev/?cmd=modules+add-repo+https%3A//gterminal.is-a.dev/modules/repo.json)
+[![Remove repo `main`](https://img.shields.io/badge/Remove_repo-main-blue)](https://gterminal.is-a.dev/?cmd=modules+remove-repo+main)
 
 ## [`github`] GitHub
 
 [![Install module `main:github`](https://img.shields.io/badge/Install_module-main:github-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:github)
+[![Remove module `main:github`](https://img.shields.io/badge/Remove_module-main:github-blue)](https://gterminal.is-a.dev/?cmd=modules+remove+main:github)
 
 GitHub related commands
 
@@ -30,6 +32,7 @@ Commands:
 ## [`google`] Google
 
 [![Install module `main:google`](https://img.shields.io/badge/Install_module-main:google-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:google)
+[![Remove module `main:google`](https://img.shields.io/badge/Remove_module-main:google-blue)](https://gterminal.is-a.dev/?cmd=modules+remove+main:google)
 
 Google related commands
 
@@ -49,6 +52,7 @@ Commands:
 ## [`openai`] OpenAI
 
 [![Install module `main:openai`](https://img.shields.io/badge/Install_module-main:openai-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:openai)
+[![Remove module `main:openai`](https://img.shields.io/badge/Remove_module-main:openai-blue)](https://gterminal.is-a.dev/?cmd=modules+remove+main:openai)
 
 OpenAI related commands
 
@@ -65,6 +69,7 @@ Commands:
 ## [`shortlinks`] Shortlink Commands
 
 [![Install module `main:shortlinks`](https://img.shields.io/badge/Install_module-main:shortlinks-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:shortlinks)
+[![Remove module `main:shortlinks`](https://img.shields.io/badge/Remove_module-main:shortlinks-blue)](https://gterminal.is-a.dev/?cmd=modules+remove+main:shortlinks)
 
 Provides commands to generate shortlinks on is.gd and v.gd
 
@@ -87,6 +92,7 @@ Commands:
 ## [`twitch`] Twitch
 
 [![Install module `main:twitch`](https://img.shields.io/badge/Install_module-main:twitch-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:twitch)
+[![Remove module `main:twitch`](https://img.shields.io/badge/Remove_module-main:twitch-blue)](https://gterminal.is-a.dev/?cmd=modules+remove+main:twitch)
 
 Search People and Categories on Twitch
 
@@ -121,6 +127,7 @@ Commands:
 ## [`webdev`] WebDev Tools
 
 [![Install module `main:webdev`](https://img.shields.io/badge/Install_module-main:webdev-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:webdev)
+[![Remove module `main:webdev`](https://img.shields.io/badge/Remove_module-main:webdev-blue)](https://gterminal.is-a.dev/?cmd=modules+remove+main:webdev)
 
 Tools for web developers
 
@@ -158,6 +165,7 @@ Commands:
 ## [`whatsapp`] WhatsApp
 
 [![Install module `main:whatsapp`](https://img.shields.io/badge/Install_module-main:whatsapp-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:whatsapp)
+[![Remove module `main:whatsapp`](https://img.shields.io/badge/Remove_module-main:whatsapp-blue)](https://gterminal.is-a.dev/?cmd=modules+remove+main:whatsapp)
 
 Open WhatsApp Web with a simple command
 
@@ -177,6 +185,7 @@ Commands:
 ## [`you`] You.com
 
 [![Install module `main:you`](https://img.shields.io/badge/Install_module-main:you-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:you)
+[![Remove module `main:you`](https://img.shields.io/badge/Remove_module-main:you-blue)](https://gterminal.is-a.dev/?cmd=modules+remove+main:you)
 
 You.com related commands
 
@@ -211,6 +220,7 @@ Commands:
 ## [`youtube`] YouTube
 
 [![Install module `main:youtube`](https://img.shields.io/badge/Install_module-main:youtube-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:youtube)
+[![Remove module `main:youtube`](https://img.shields.io/badge/Remove_module-main:youtube-blue)](https://gterminal.is-a.dev/?cmd=modules+remove+main:youtube)
 
 YouTube related commands
 
