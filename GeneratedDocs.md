@@ -3,6 +3,26 @@
 [![Add repo `main`](https://img.shields.io/badge/Add_repo-main-blue)](https://gterminal.is-a.dev/?cmd=modules+add-repo+https%3A//gterminal.is-a.dev/modules/repo.json)
 [![Remove repo `main`](https://img.shields.io/badge/Remove_repo-main-blue)](https://gterminal.is-a.dev/?cmd=modules+remove-repo+main)
 
+## [`endoflife`] enfoflife.date
+
+[![Install module `main:endoflife`](https://img.shields.io/badge/Install_module-main:endoflife-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:endoflife)
+[![Remove module `main:endoflife`](https://img.shields.io/badge/Remove_module-main:endoflife-blue)](https://gterminal.is-a.dev/?cmd=modules+remove+main:endoflife)
+
+Check the endoflife date of a specific soft- or hardware
+
+Script: [`https://gterminal.is-a.dev/modules/module/endoflife.js`](https://gterminal.is-a.dev/modules/module/endoflife.js)
+
+Commands:  
+
+- `endoflife`  
+  
+  [![Run command `endoflife`](https://img.shields.io/badge/Run_command-endoflife-blue)](https://gterminal.is-a.dev/?cmd=endoflife)
+
+  Check the endoflife date of a specific soft- or hardware  
+  Aliases:  
+
+  - `eol`  
+
 ## [`github`] GitHub
 
 [![Install module `main:github`](https://img.shields.io/badge/Install_module-main:github-blue)](https://gterminal.is-a.dev/?cmd=modules+install+main:github)
