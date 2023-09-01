@@ -34,7 +34,7 @@ you.registerCommand("chat", "Open a specific you-chat session or you-chat", asyn
     }
 })
 
-you.registerCommand("command_not_found", "Override command fail recommendation", async (full, rest) => {
-    gterminal.io.println(`The command "${rest}" could not be found. Did you mean "u ${rest}"?`);
-    gterminal.commands.setY("u " + rest);
-})
+// you.registerFallbackHandler(async (full, rest) => {
+//     gterminal.io.println(`The command "${full}" could not be found. Did you mean "u ${full}"?`);
+// }
+
