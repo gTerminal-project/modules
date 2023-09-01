@@ -3,6 +3,19 @@
     "id": "main",
     "address": "https://gterminal.is-a.dev/modules/repo.json",
     "modules": {
+        "endoflife": {
+            "name": "enfoflife.date",
+            "description": "Check the endoflife date of a specific soft- or hardware",
+            "script": "https://gterminal.is-a.dev/modules/module/endoflife.js",
+            "commands": {
+                "endoflife": {
+                    "description": "Check the endoflife date of a specific soft- or hardware",
+                    "aliases": [
+                        "eol"
+                    ]
+                }
+            }
+        },
         "github": {
             "name": "GitHub",
             "description": "GitHub related commands",
