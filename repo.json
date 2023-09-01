@@ -1,6 +1,7 @@
 {
     "name": "gTerminal",
     "id": "main",
+    "address": "https://gterminal.is-a.dev/modules/repo.json",
     "modules": {
         "github": {
             "name": "GitHub",
