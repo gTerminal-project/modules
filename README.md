@@ -13,7 +13,7 @@ To remove this repo in gTerminal, run the following command:
 `modules repo remove gTerminal`
 
 > [!NOTE]
-> You can also add the repo and install all contained modules via the buttons on [this](GeneratedDocs.md) page.
+> You can also add the repo and install all contained modules via the buttons on [this](https://github.com/gTerminal-project/modules/blob/main/GeneratedDocs.md) page.
 
 ## Credits
 
