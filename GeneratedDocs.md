@@ -18,7 +18,7 @@ Commands:
 
   [![Run command `endoflife`](https://img.shields.io/badge/Run_command-endoflife-blue)](https://gterminal.js.org/?cmd=endoflife)
 
-  Check the endoflife date of a specific soft- or hardware  
+  Check the endoflife date of a specific soft- or hardware
   Aliases:
 
   - `eol`
@@ -38,7 +38,7 @@ Commands:
 
   [![Run command `github`](https://img.shields.io/badge/Run_command-github-blue)](https://gterminal.js.org/?cmd=github)
 
-  Open a specific GitHub resource  
+  Open a specific GitHub resource
   Aliases:
 
   - `gh`
@@ -64,7 +64,7 @@ Commands:
 
   [![Run command `google`](https://img.shields.io/badge/Run_command-google-blue)](https://gterminal.js.org/?cmd=google)
 
-  Search on google  
+  Search on google
   Aliases:
 
   - `goog`
@@ -177,7 +177,7 @@ Commands:
 
   [![Run command `regex101`](https://img.shields.io/badge/Run_command-regex101-blue)](https://gterminal.js.org/?cmd=regex101)
 
-  Open regex101  
+  Open regex101
   Aliases:
 
   - `regx`
@@ -197,7 +197,7 @@ Commands:
 
   [![Run command `whatsapp`](https://img.shields.io/badge/Run_command-whatsapp-blue)](https://gterminal.js.org/?cmd=whatsapp)
 
-  Open WhatsApp Web  
+  Open WhatsApp Web
   Aliases:
 
   - `wa`
@@ -217,7 +217,7 @@ Commands:
 
   [![Run command `you`](https://img.shields.io/badge/Run_command-you-blue)](https://gterminal.js.org/?cmd=you)
 
-  Search with youchat  
+  Search with youchat
   Aliases:
 
   - `u`
@@ -226,7 +226,7 @@ Commands:
 
   [![Run command `you-search`](https://img.shields.io/badge/Run_command-you-search-blue)](https://gterminal.js.org/?cmd=you-search)
 
-  Search on You.com  
+  Search on You.com
   Aliases:
 
   - `us`
@@ -252,7 +252,7 @@ Commands:
 
   [![Run command `youtube`](https://img.shields.io/badge/Run_command-youtube-blue)](https://gterminal.js.org/?cmd=youtube)
 
-  Search with youchat  
+  Search with youchat
   Aliases:
 
   - `yt`
