@@ -12,16 +12,16 @@ Check the endoflife date of a specific soft- or hardware
 
 Script: [`https://gterminal.js.org/mod/module/endoflife.js`](https://gterminal.js.org/mod/module/endoflife.js)
 
-Commands:  
+Commands:
 
-- `endoflife`  
-  
+- `endoflife`
+
   [![Run command `endoflife`](https://img.shields.io/badge/Run_command-endoflife-blue)](https://gterminal.js.org/?cmd=endoflife)
 
   Check the endoflife date of a specific soft- or hardware  
-  Aliases:  
+  Aliases:
 
-  - `eol`  
+  - `eol`
 
 ## [`github`] GitHub
 
@@ -32,22 +32,22 @@ GitHub related commands
 
 Script: [`https://gterminal.js.org/mod/module/github.js`](https://gterminal.js.org/mod/module/github.js)
 
-Commands:  
+Commands:
 
-- `github`  
-  
+- `github`
+
   [![Run command `github`](https://img.shields.io/badge/Run_command-github-blue)](https://gterminal.js.org/?cmd=github)
 
   Open a specific GitHub resource  
-  Aliases:  
+  Aliases:
 
-  - `gh`  
+  - `gh`
 
-- `gist`  
-  
+- `gist`
+
   [![Run command `gist`](https://img.shields.io/badge/Run_command-gist-blue)](https://gterminal.js.org/?cmd=gist)
 
-  Open a specific gist or account  
+  Open a specific gist or account
 
 ## [`google`] Google
 
@@ -58,16 +58,16 @@ Google related commands
 
 Script: [`https://gterminal.js.org/mod/module/google.js`](https://gterminal.js.org/mod/module/google.js)
 
-Commands:  
+Commands:
 
-- `google`  
-  
+- `google`
+
   [![Run command `google`](https://img.shields.io/badge/Run_command-google-blue)](https://gterminal.js.org/?cmd=google)
 
   Search on google  
-  Aliases:  
+  Aliases:
 
-  - `goog`  
+  - `goog`
 
 ## [`openai`] OpenAI
 
@@ -78,13 +78,13 @@ OpenAI related commands
 
 Script: [`https://gterminal.js.org/mod/module/openai.js`](https://gterminal.js.org/mod/module/openai.js)
 
-Commands:  
+Commands:
 
-- `chatgpt`  
-  
+- `chatgpt`
+
   [![Run command `chatgpt`](https://img.shields.io/badge/Run_command-chatgpt-blue)](https://gterminal.js.org/?cmd=chatgpt)
 
-  Open a specific ChatGPT chat or ChatGPT  
+  Open a specific ChatGPT chat or ChatGPT
 
 ## [`shortlinks`] Shortlink Commands
 
@@ -95,19 +95,19 @@ Provides commands to generate shortlinks on is.gd and v.gd
 
 Script: [`https://gterminal.js.org/mod/module/shortlinks.js`](https://gterminal.js.org/mod/module/shortlinks.js)
 
-Commands:  
+Commands:
 
-- `short`  
-  
+- `short`
+
   [![Run command `short`](https://img.shields.io/badge/Run_command-short-blue)](https://gterminal.js.org/?cmd=short)
 
-  Shorten a link on is.gd  
+  Shorten a link on is.gd
 
-- `shortv`  
-  
+- `shortv`
+
   [![Run command `shortv`](https://img.shields.io/badge/Run_command-shortv-blue)](https://gterminal.js.org/?cmd=shortv)
 
-  Shorten a link on v.gd  
+  Shorten a link on v.gd
 
 ## [`twitch`] Twitch
 
@@ -118,31 +118,31 @@ Search People and Categories on Twitch
 
 Script: [`https://gterminal.js.org/mod/module/twitch.js`](https://gterminal.js.org/mod/module/twitch.js)
 
-Commands:  
+Commands:
 
-- `tw`  
-  
+- `tw`
+
   [![Run command `tw`](https://img.shields.io/badge/Run_command-tw-blue)](https://gterminal.js.org/?cmd=tw)
 
-  Open Twitch or search on it  
+  Open Twitch or search on it
 
-- `twac`  
-  
+- `twac`
+
   [![Run command `twac`](https://img.shields.io/badge/Run_command-twac-blue)](https://gterminal.js.org/?cmd=twac)
 
-  Show a twitch profile  
+  Show a twitch profile
 
-- `twcat`  
-  
+- `twcat`
+
   [![Run command `twcat`](https://img.shields.io/badge/Run_command-twcat-blue)](https://gterminal.js.org/?cmd=twcat)
 
-  Show a twitch category  
+  Show a twitch category
 
-- `twcat-all`  
-  
+- `twcat-all`
+
   [![Run command `twcat-all`](https://img.shields.io/badge/Run_command-twcat-all-blue)](https://gterminal.js.org/?cmd=twcat-all)
 
-  List availible twitch categories  
+  List availible twitch categories
 
 ## [`webdev`] WebDev Tools
 
@@ -153,34 +153,34 @@ Tools for web developers
 
 Script: [`https://gterminal.js.org/mod/module/webdev.js`](https://gterminal.js.org/mod/module/webdev.js)
 
-Commands:  
+Commands:
 
-- `pen`  
-  
+- `pen`
+
   [![Run command `pen`](https://img.shields.io/badge/Run_command-pen-blue)](https://gterminal.js.org/?cmd=pen)
 
-  Start a new codepen  
+  Start a new codepen
 
-- `keycode`  
-  
+- `keycode`
+
   [![Run command `keycode`](https://img.shields.io/badge/Run_command-keycode-blue)](https://gterminal.js.org/?cmd=keycode)
 
-  Open keycode.info  
+  Open keycode.info
 
-- `caniuse`  
-  
+- `caniuse`
+
   [![Run command `caniuse`](https://img.shields.io/badge/Run_command-caniuse-blue)](https://gterminal.js.org/?cmd=caniuse)
 
-  Start a 'Can I use' search  
+  Start a 'Can I use' search
 
-- `regex101`  
-  
+- `regex101`
+
   [![Run command `regex101`](https://img.shields.io/badge/Run_command-regex101-blue)](https://gterminal.js.org/?cmd=regex101)
 
   Open regex101  
-  Aliases:  
+  Aliases:
 
-  - `regx`  
+  - `regx`
 
 ## [`whatsapp`] WhatsApp
 
@@ -191,16 +191,16 @@ Open WhatsApp Web with a simple command
 
 Script: [`https://gterminal.js.org/mod/module/whatsapp.js`](https://gterminal.js.org/mod/module/whatsapp.js)
 
-Commands:  
+Commands:
 
-- `whatsapp`  
-  
+- `whatsapp`
+
   [![Run command `whatsapp`](https://img.shields.io/badge/Run_command-whatsapp-blue)](https://gterminal.js.org/?cmd=whatsapp)
 
   Open WhatsApp Web  
-  Aliases:  
+  Aliases:
 
-  - `wa`  
+  - `wa`
 
 ## [`you`] You.com
 
@@ -211,31 +211,31 @@ You.com related commands
 
 Script: [`https://gterminal.js.org/mod/module/you.js`](https://gterminal.js.org/mod/module/you.js)
 
-Commands:  
+Commands:
 
-- `you`  
-  
+- `you`
+
   [![Run command `you`](https://img.shields.io/badge/Run_command-you-blue)](https://gterminal.js.org/?cmd=you)
 
   Search with youchat  
-  Aliases:  
+  Aliases:
 
-  - `u`  
+  - `u`
 
-- `you-search`  
-  
+- `you-search`
+
   [![Run command `you-search`](https://img.shields.io/badge/Run_command-you-search-blue)](https://gterminal.js.org/?cmd=you-search)
 
   Search on You.com  
-  Aliases:  
+  Aliases:
 
-  - `us`  
+  - `us`
 
-- `chat`  
-  
+- `chat`
+
   [![Run command `chat`](https://img.shields.io/badge/Run_command-chat-blue)](https://gterminal.js.org/?cmd=chat)
 
-  Open a specific you-chat session or you-chat  
+  Open a specific you-chat session or you-chat
 
 ## [`youtube`] YouTube
 
@@ -246,13 +246,13 @@ YouTube related commands
 
 Script: [`https://gterminal.js.org/mod/module/youtube.js`](https://gterminal.js.org/mod/module/youtube.js)
 
-Commands:  
+Commands:
 
-- `youtube`  
-  
+- `youtube`
+
   [![Run command `youtube`](https://img.shields.io/badge/Run_command-youtube-blue)](https://gterminal.js.org/?cmd=youtube)
 
   Search with youchat  
-  Aliases:  
+  Aliases:
 
-  - `yt`  
+  - `yt`
