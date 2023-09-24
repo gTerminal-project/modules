@@ -6,7 +6,7 @@
         "endoflife": {
             "name": "enfoflife.date",
             "description": "Check the endoflife date of a specific soft- or hardware",
-            "script": "https://gterminal.js.org/mod/module/endoflife.js",
+            "script": "https://gterminal.js.org/modules/module/endoflife.js",
             "commands": {
                 "endoflife": {
                     "description": "Check the endoflife date of a specific soft- or hardware",
@@ -19,7 +19,7 @@
         "github": {
             "name": "GitHub",
             "description": "GitHub related commands",
-            "script": "https://gterminal.js.org/mod/module/github.js",
+            "script": "https://gterminal.js.org/modules/module/github.js",
             "commands": {
                 "github": {
                     "description": "Open a specific GitHub resource",
@@ -35,7 +35,7 @@
         "google": {
             "name": "Google",
             "description": "Google related commands",
-            "script": "https://gterminal.js.org/mod/module/google.js",
+            "script": "https://gterminal.js.org/modules/module/google.js",
             "commands": {
                 "google": {
                     "description": "Search on google",
@@ -48,7 +48,7 @@
         "openai": {
             "name": "OpenAI",
             "description": "OpenAI related commands",
-            "script": "https://gterminal.js.org/mod/module/openai.js",
+            "script": "https://gterminal.js.org/modules/module/openai.js",
             "commands": {
                 "chatgpt": {
                     "description": "Open a specific ChatGPT chat or ChatGPT"
@@ -58,7 +58,7 @@
         "shortlinks": {
             "name": "Shortlink Commands",
             "description": "Provides commands to generate shortlinks on is.gd and v.gd",
-            "script": "https://gterminal.js.org/mod/module/shortlinks.js",
+            "script": "https://gterminal.js.org/modules/module/shortlinks.js",
             "commands": {
                 "short": {
                     "description": "Shorten a link on is.gd"
@@ -71,7 +71,7 @@
         "twitch": {
             "name": "Twitch",
             "description": "Search People and Categories on Twitch",
-            "script": "https://gterminal.js.org/mod/module/twitch.js",
+            "script": "https://gterminal.js.org/modules/module/twitch.js",
             "commands": {
                 "tw": {
                     "description": "Open Twitch or search on it"
@@ -90,7 +90,7 @@
         "webdev": {
             "name": "WebDev Tools",
             "description": "Tools for web developers",
-            "script": "https://gterminal.js.org/mod/module/webdev.js",
+            "script": "https://gterminal.js.org/modules/module/webdev.js",
             "commands": {
                 "pen": {
                     "description": "Start a new codepen"
@@ -112,7 +112,7 @@
         "whatsapp": {
             "name": "WhatsApp",
             "description": "Open WhatsApp Web with a simple command",
-            "script": "https://gterminal.js.org/mod/module/whatsapp.js",
+            "script": "https://gterminal.js.org/modules/module/whatsapp.js",
             "commands": {
                 "whatsapp": {
                     "description": "Open WhatsApp Web",
@@ -125,7 +125,7 @@
         "you": {
             "name": "You.com",
             "description": "You.com related commands",
-            "script": "https://gterminal.js.org/mod/module/you.js",
+            "script": "https://gterminal.js.org/modules/module/you.js",
             "commands": {
                 "you": {
                     "description": "Search with youchat",
@@ -153,7 +153,7 @@
         "youtube": {
             "name": "YouTube",
             "description": "YouTube related commands",
-            "script": "https://gterminal.js.org/mod/module/youtube.js",
+            "script": "https://gterminal.js.org/modules/module/youtube.js",
             "commands": {
                 "youtube": {
                     "description": "Search with youchat",
