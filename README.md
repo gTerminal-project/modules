@@ -1,13 +1,13 @@
 # modules
 
-In this repo, we have a collection of default modules that are shipped with the default install you get when using [gTerminal](https://gterminal.is-a.dev/).  
+In this repo, we have a collection of default modules that are shipped with the default install you get when using [gTerminal](https://gterminal.js.org/).  
 
 ## Installation
 
 This is installed by default in the official intance.  
   
 To install this repo in gTerminal, run the following command:  
-`modules repo add https://gterminal.is-a.dev/modules/repo.json`
+`modules repo add https://gterminal.js.org/modules/repo.json`
 
 To remove this repo in gTerminal, run the following command:  
 `modules repo remove gTerminal`
