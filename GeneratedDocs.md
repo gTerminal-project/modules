@@ -10,7 +10,7 @@
 
 Check the endoflife date of a specific soft- or hardware
 
-Script: [`https://gterminal.js.org/mod/module/endoflife.js`](https://gterminal.js.org/mod/module/endoflife.js)
+Script: [`https://gterminal.js.org/modules/module/endoflife.js`](https://gterminal.js.org/modules/module/endoflife.js)
 
 Commands:  
 
@@ -30,7 +30,7 @@ Commands:
 
 GitHub related commands
 
-Script: [`https://gterminal.js.org/mod/module/github.js`](https://gterminal.js.org/mod/module/github.js)
+Script: [`https://gterminal.js.org/modules/module/github.js`](https://gterminal.js.org/modules/module/github.js)
 
 Commands:  
 
@@ -56,7 +56,7 @@ Commands:
 
 Google related commands
 
-Script: [`https://gterminal.js.org/mod/module/google.js`](https://gterminal.js.org/mod/module/google.js)
+Script: [`https://gterminal.js.org/modules/module/google.js`](https://gterminal.js.org/modules/module/google.js)
 
 Commands:  
 
@@ -76,7 +76,7 @@ Commands:
 
 OpenAI related commands
 
-Script: [`https://gterminal.js.org/mod/module/openai.js`](https://gterminal.js.org/mod/module/openai.js)
+Script: [`https://gterminal.js.org/modules/module/openai.js`](https://gterminal.js.org/modules/module/openai.js)
 
 Commands:  
 
@@ -93,7 +93,7 @@ Commands:
 
 Provides commands to generate shortlinks on is.gd and v.gd
 
-Script: [`https://gterminal.js.org/mod/module/shortlinks.js`](https://gterminal.js.org/mod/module/shortlinks.js)
+Script: [`https://gterminal.js.org/modules/module/shortlinks.js`](https://gterminal.js.org/modules/module/shortlinks.js)
 
 Commands:  
 
@@ -116,7 +116,7 @@ Commands:
 
 Search People and Categories on Twitch
 
-Script: [`https://gterminal.js.org/mod/module/twitch.js`](https://gterminal.js.org/mod/module/twitch.js)
+Script: [`https://gterminal.js.org/modules/module/twitch.js`](https://gterminal.js.org/modules/module/twitch.js)
 
 Commands:  
 
@@ -151,7 +151,7 @@ Commands:
 
 Tools for web developers
 
-Script: [`https://gterminal.js.org/mod/module/webdev.js`](https://gterminal.js.org/mod/module/webdev.js)
+Script: [`https://gterminal.js.org/modules/module/webdev.js`](https://gterminal.js.org/modules/module/webdev.js)
 
 Commands:  
 
@@ -189,7 +189,7 @@ Commands:
 
 Open WhatsApp Web with a simple command
 
-Script: [`https://gterminal.js.org/mod/module/whatsapp.js`](https://gterminal.js.org/mod/module/whatsapp.js)
+Script: [`https://gterminal.js.org/modules/module/whatsapp.js`](https://gterminal.js.org/modules/module/whatsapp.js)
 
 Commands:  
 
@@ -209,7 +209,7 @@ Commands:
 
 You.com related commands
 
-Script: [`https://gterminal.js.org/mod/module/you.js`](https://gterminal.js.org/mod/module/you.js)
+Script: [`https://gterminal.js.org/modules/module/you.js`](https://gterminal.js.org/modules/module/you.js)
 
 Commands:  
 
@@ -244,7 +244,7 @@ Commands:
 
 YouTube related commands
 
-Script: [`https://gterminal.js.org/mod/module/youtube.js`](https://gterminal.js.org/mod/module/youtube.js)
+Script: [`https://gterminal.js.org/modules/module/youtube.js`](https://gterminal.js.org/modules/module/youtube.js)
 
 Commands:  
 
