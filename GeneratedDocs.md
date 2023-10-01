@@ -43,6 +43,15 @@ Commands:
 
   - `gh`  
 
+- `github-pages`  
+  
+  [![Run command `github-pages`](https://img.shields.io/badge/Run_command-github-pages-blue)](https://gterminal.js.org/?cmd=github-pages)
+
+  Open a specific GitHub Pages Website  
+  Aliases:  
+
+  - `ghp`  
+
 - `gist`  
   
   [![Run command `gist`](https://img.shields.io/badge/Run_command-gist-blue)](https://gterminal.js.org/?cmd=gist)
