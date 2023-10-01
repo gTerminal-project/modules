@@ -29,3 +29,17 @@ github.registerCommand("gist", async (full, rest) => {
     }
     gterminal.io.println("Please wait...");
 })
+
+github.registerCommand("github-pages", async (full, rest) => {
+    if (rest) {
+        const srest = rest.split("/");
+        if (srest[1]) {
+            gterminal.web.goto(`https://${encodeURIComponent(srest[0] || "J0J0HA")}.github.io/${encodeURIComponent(srest[1])}`);
+        } else {
+            gterminal.web.goto(`https://${encodeURIComponent(srest[0] || "J0J0HA")}.github.io/`);
+        }
+    } else {
+        gterminal.web.goto("https://github.io/")
+    }
+    gterminal.io.println("Please wait...");
+})
