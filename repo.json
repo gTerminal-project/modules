@@ -10,9 +10,7 @@
       "commands": {
         "endoflife": {
           "description": "Check the endoflife date of a specific soft- or hardware",
-          "aliases": [
-            "eol"
-          ]
+          "aliases": ["eol"]
         }
       }
     },
@@ -23,15 +21,11 @@
       "commands": {
         "github": {
           "description": "Open a specific GitHub resource",
-          "aliases": [
-            "gh"
-          ]
+          "aliases": ["gh"]
         },
         "github-pages": {
           "description": "Open a specific GitHub Pages Website",
-          "aliases": [
-            "ghp"
-          ]
+          "aliases": ["ghp"]
         },
         "gist": {
           "description": "Open a specific gist or account"
@@ -45,9 +39,7 @@
       "commands": {
         "google": {
           "description": "Search on google",
-          "aliases": [
-            "goog"
-          ]
+          "aliases": ["goog"]
         }
       }
     },
@@ -109,9 +101,7 @@
         },
         "regex101": {
           "description": "Open regex101",
-          "aliases": [
-            "regx"
-          ]
+          "aliases": ["regx"]
         }
       }
     },
@@ -122,9 +112,7 @@
       "commands": {
         "whatsapp": {
           "description": "Open WhatsApp Web",
-          "aliases": [
-            "wa"
-          ]
+          "aliases": ["wa"]
         }
       }
     },
@@ -135,15 +123,11 @@
       "commands": {
         "you": {
           "description": "Search with youchat",
-          "aliases": [
-            "u"
-          ]
+          "aliases": ["u"]
         },
         "you-search": {
           "description": "Search on You.com",
-          "aliases": [
-            "us"
-          ]
+          "aliases": ["us"]
         },
         "chat": {
           "description": "Open a specific you-chat session or you-chat"
@@ -163,9 +147,7 @@
       "commands": {
         "youtube": {
           "description": "Search with youchat",
-          "aliases": [
-            "yt"
-          ]
+          "aliases": ["yt"]
         }
       }
     }
