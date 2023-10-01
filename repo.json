@@ -27,6 +27,12 @@
                         "gh"
                     ]
                 },
+                "github-pages": {
+                    "description": "Open a specific GitHub Pages Website",
+                    "aliases": [
+                        "ghp"
+                    ]
+                },
                 "gist": {
                     "description": "Open a specific gist or account"
                 }
