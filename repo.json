@@ -1,173 +1,173 @@
 {
-    "name": "gTerminal",
-    "id": "main",
-    "address": "https://gterminal.js.org/mod/repo.json",
-    "modules": {
+  "name": "gTerminal",
+  "id": "main",
+  "address": "https://gterminal.js.org/mod/repo.json",
+  "modules": {
+    "endoflife": {
+      "name": "enfoflife.date",
+      "description": "Check the endoflife date of a specific soft- or hardware",
+      "script": "https://gterminal.js.org/modules/module/endoflife.js",
+      "commands": {
         "endoflife": {
-            "name": "enfoflife.date",
-            "description": "Check the endoflife date of a specific soft- or hardware",
-            "script": "https://gterminal.js.org/modules/module/endoflife.js",
-            "commands": {
-                "endoflife": {
-                    "description": "Check the endoflife date of a specific soft- or hardware",
-                    "aliases": [
-                        "eol"
-                    ]
-                }
-            }
-        },
-        "github": {
-            "name": "GitHub",
-            "description": "GitHub related commands",
-            "script": "https://gterminal.js.org/modules/module/github.js",
-            "commands": {
-                "github": {
-                    "description": "Open a specific GitHub resource",
-                    "aliases": [
-                        "gh"
-                    ]
-                },
-                "github-pages": {
-                    "description": "Open a specific GitHub Pages Website",
-                    "aliases": [
-                        "ghp"
-                    ]
-                },
-                "gist": {
-                    "description": "Open a specific gist or account"
-                }
-            }
-        },
-        "google": {
-            "name": "Google",
-            "description": "Google related commands",
-            "script": "https://gterminal.js.org/modules/module/google.js",
-            "commands": {
-                "google": {
-                    "description": "Search on google",
-                    "aliases": [
-                        "goog"
-                    ]
-                }
-            }
-        },
-        "openai": {
-            "name": "OpenAI",
-            "description": "OpenAI related commands",
-            "script": "https://gterminal.js.org/modules/module/openai.js",
-            "commands": {
-                "chatgpt": {
-                    "description": "Open a specific ChatGPT chat or ChatGPT"
-                }
-            }
-        },
-        "shortlinks": {
-            "name": "Shortlink Commands",
-            "description": "Provides commands to generate shortlinks on is.gd and v.gd",
-            "script": "https://gterminal.js.org/modules/module/shortlinks.js",
-            "commands": {
-                "short": {
-                    "description": "Shorten a link on is.gd"
-                },
-                "shortv": {
-                    "description": "Shorten a link on v.gd"
-                }
-            }
-        },
-        "twitch": {
-            "name": "Twitch",
-            "description": "Search People and Categories on Twitch",
-            "script": "https://gterminal.js.org/modules/module/twitch.js",
-            "commands": {
-                "tw": {
-                    "description": "Open Twitch or search on it"
-                },
-                "twac": {
-                    "description": "Show a twitch profile"
-                },
-                "twcat": {
-                    "description": "Show a twitch category"
-                },
-                "twcat-all": {
-                    "description": "List availible twitch categories"
-                }
-            }
-        },
-        "webdev": {
-            "name": "WebDev Tools",
-            "description": "Tools for web developers",
-            "script": "https://gterminal.js.org/modules/module/webdev.js",
-            "commands": {
-                "pen": {
-                    "description": "Start a new codepen"
-                },
-                "keycode": {
-                    "description": "Open keycode.info"
-                },
-                "caniuse": {
-                    "description": "Start a 'Can I use' search"
-                },
-                "regex101": {
-                    "description": "Open regex101",
-                    "aliases": [
-                        "regx"
-                    ]
-                }
-            }
-        },
-        "whatsapp": {
-            "name": "WhatsApp",
-            "description": "Open WhatsApp Web with a simple command",
-            "script": "https://gterminal.js.org/modules/module/whatsapp.js",
-            "commands": {
-                "whatsapp": {
-                    "description": "Open WhatsApp Web",
-                    "aliases": [
-                        "wa"
-                    ]
-                }
-            }
-        },
-        "you": {
-            "name": "You.com",
-            "description": "You.com related commands",
-            "script": "https://gterminal.js.org/modules/module/you.js",
-            "commands": {
-                "you": {
-                    "description": "Search with youchat",
-                    "aliases": [
-                        "u"
-                    ]
-                },
-                "you-search": {
-                    "description": "Search on You.com",
-                    "aliases": [
-                        "us"
-                    ]
-                },
-                "chat": {
-                    "description": "Open a specific you-chat session or you-chat"
-                }
-            },
-            "missing_command_helpers": [
-                {
-                    "description": "Search with You.com's YouChat",
-                    "command": "u %full%"
-                }
-            ]
-        },
-        "youtube": {
-            "name": "YouTube",
-            "description": "YouTube related commands",
-            "script": "https://gterminal.js.org/modules/module/youtube.js",
-            "commands": {
-                "youtube": {
-                    "description": "Search with youchat",
-                    "aliases": [
-                        "yt"
-                    ]
-                }
-            }
+          "description": "Check the endoflife date of a specific soft- or hardware",
+          "aliases": [
+            "eol"
+          ]
         }
+      }
+    },
+    "github": {
+      "name": "GitHub",
+      "description": "GitHub related commands",
+      "script": "https://gterminal.js.org/modules/module/github.js",
+      "commands": {
+        "github": {
+          "description": "Open a specific GitHub resource",
+          "aliases": [
+            "gh"
+          ]
+        },
+        "github-pages": {
+          "description": "Open a specific GitHub Pages Website",
+          "aliases": [
+            "ghp"
+          ]
+        },
+        "gist": {
+          "description": "Open a specific gist or account"
+        }
+      }
+    },
+    "google": {
+      "name": "Google",
+      "description": "Google related commands",
+      "script": "https://gterminal.js.org/modules/module/google.js",
+      "commands": {
+        "google": {
+          "description": "Search on google",
+          "aliases": [
+            "goog"
+          ]
+        }
+      }
+    },
+    "openai": {
+      "name": "OpenAI",
+      "description": "OpenAI related commands",
+      "script": "https://gterminal.js.org/modules/module/openai.js",
+      "commands": {
+        "chatgpt": {
+          "description": "Open a specific ChatGPT chat or ChatGPT"
+        }
+      }
+    },
+    "shortlinks": {
+      "name": "Shortlink Commands",
+      "description": "Provides commands to generate shortlinks on is.gd and v.gd",
+      "script": "https://gterminal.js.org/modules/module/shortlinks.js",
+      "commands": {
+        "short": {
+          "description": "Shorten a link on is.gd"
+        },
+        "shortv": {
+          "description": "Shorten a link on v.gd"
+        }
+      }
+    },
+    "twitch": {
+      "name": "Twitch",
+      "description": "Search People and Categories on Twitch",
+      "script": "https://gterminal.js.org/modules/module/twitch.js",
+      "commands": {
+        "tw": {
+          "description": "Open Twitch or search on it"
+        },
+        "twac": {
+          "description": "Show a twitch profile"
+        },
+        "twcat": {
+          "description": "Show a twitch category"
+        },
+        "twcat-all": {
+          "description": "List availible twitch categories"
+        }
+      }
+    },
+    "webdev": {
+      "name": "WebDev Tools",
+      "description": "Tools for web developers",
+      "script": "https://gterminal.js.org/modules/module/webdev.js",
+      "commands": {
+        "pen": {
+          "description": "Start a new codepen"
+        },
+        "keycode": {
+          "description": "Open keycode.info"
+        },
+        "caniuse": {
+          "description": "Start a 'Can I use' search"
+        },
+        "regex101": {
+          "description": "Open regex101",
+          "aliases": [
+            "regx"
+          ]
+        }
+      }
+    },
+    "whatsapp": {
+      "name": "WhatsApp",
+      "description": "Open WhatsApp Web with a simple command",
+      "script": "https://gterminal.js.org/modules/module/whatsapp.js",
+      "commands": {
+        "whatsapp": {
+          "description": "Open WhatsApp Web",
+          "aliases": [
+            "wa"
+          ]
+        }
+      }
+    },
+    "you": {
+      "name": "You.com",
+      "description": "You.com related commands",
+      "script": "https://gterminal.js.org/modules/module/you.js",
+      "commands": {
+        "you": {
+          "description": "Search with youchat",
+          "aliases": [
+            "u"
+          ]
+        },
+        "you-search": {
+          "description": "Search on You.com",
+          "aliases": [
+            "us"
+          ]
+        },
+        "chat": {
+          "description": "Open a specific you-chat session or you-chat"
+        }
+      },
+      "missing_command_helpers": [
+        {
+          "description": "Search with You.com's YouChat",
+          "command": "u %full%"
+        }
+      ]
+    },
+    "youtube": {
+      "name": "YouTube",
+      "description": "YouTube related commands",
+      "script": "https://gterminal.js.org/modules/module/youtube.js",
+      "commands": {
+        "youtube": {
+          "description": "Search with youchat",
+          "aliases": [
+            "yt"
+          ]
+        }
+      }
     }
+  }
 }
