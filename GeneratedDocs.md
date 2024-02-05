@@ -1,6 +1,6 @@
 # [`main`] gTerminal
 
-[![Add repo `main`](https://img.shields.io/badge/Add_repo-main-blue)](https://gterminal.js.org/?cmd=modules+add-repo+https%3A//gterminal.js.org/mod/repo.json)
+[![Add repo `main`](https://img.shields.io/badge/Add_repo-main-blue)](https://gterminal.js.org/?cmd=modules+add-repo+https%3A//gterminal.js.org/modules/repo.json)
 [![Remove repo `main`](https://img.shields.io/badge/Remove_repo-main-blue)](https://gterminal.js.org/?cmd=modules+remove-repo+main)
 
 ## [`endoflife`] enfoflife.date
