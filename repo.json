@@ -1,7 +1,7 @@
 {
     "name": "gTerminal",
     "id": "main",
-    "address": "https://gterminal.js.org/mod/repo.json",
+    "address": "https://gterminal.js.org/modules/repo.json",
     "modules": {
         "endoflife": {
             "name": "enfoflife.date",
